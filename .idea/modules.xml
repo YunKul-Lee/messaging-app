@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/messaging-app.iml" filepath="$PROJECT_DIR$/messaging-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messaging-client.iml" filepath="$PROJECT_DIR$/messaging-client.iml" />
     </modules>
   </component>
 </project>
