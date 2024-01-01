@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd7f7087-59d5-4220-a04c-5a03e31905c4" name="Changes" comment="message-app client 모듈 추가">
-      <change afterPath="$PROJECT_DIR$/messaging-client/src/component/UsernamePage.jsx" afterDir="false" />
+    <list default="true" id="dd7f7087-59d5-4220-a04c-5a03e31905c4" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/messaging-client/src/component/ChatMessage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messaging-client/src/component/ChatPage.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +94,8 @@
       <workItem from="1703486851281" duration="13000" />
       <workItem from="1703741934204" duration="347000" />
       <workItem from="1703852096874" duration="269000" />
-      <workItem from="1704002321842" duration="835000" />
+      <workItem from="1704002321842" duration="1079000" />
+      <workItem from="1704106040705" duration="405000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -143,19 +145,27 @@
       <option name="project" value="LOCAL" />
       <updated>1703852360631</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=".">
+      <option name="closed" value="true" />
+      <created>1704003392589</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704003392589</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
     <MESSAGE value="add Message and KafkaConfig" />
     <MESSAGE value="Websocket Config 추가" />
     <MESSAGE value="add MessageController" />
     <MESSAGE value="Disconnect 이벤트리스너 등록" />
     <MESSAGE value="message-app client 모듈 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="message-app client 모듈 추가" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
